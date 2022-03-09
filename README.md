@@ -26,6 +26,6 @@ In this assignment, you need to submit your Spring Boot application similar to w
   <li> Please, also ensure that you regularly check, add and commit your changes to the remote repo so that we can see your progress. </li>
 </ul>
 
-This assignment will give you <strong>25%</strong> of the total. <br />
+This assignment will give you <strong>30%</strong> of the total. <br />
 <em> Good luck! </em> <br />
 <em> NS </em>
