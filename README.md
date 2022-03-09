@@ -5,7 +5,7 @@ Dear students,
 
 In this assignment, you need to submit your Spring Boot application similar to what we practiced in class. It requires additional reading and practicing. The requirements are simple:
 
-<h4> Task related: </h4>
+<h4> Task related: (80%) </h4>
 <ul>
   <li>Create two entities (use different entities than those used in class). <strong>Note:</strong> these entities should have either one-to-many or many-to-many relationship.</li>
   <li>Use H2 Database to store the data (make sure you add some records before launching the application).</li>
@@ -14,7 +14,7 @@ In this assignment, you need to submit your Spring Boot application similar to w
   <li>Write additional @Query (non-native)</li>
 </ul>
 
-<h4> Task related: </h4>
+<h4> Task related: (20%) </h4>
 <ul>
   <li>Create Add/Remove for the cross-relationship (like removal or addition of courses for the Student).</li>
   <li>Write native queries with some advanced SQL.</li>
